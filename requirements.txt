@@ -1,0 +1,9 @@
+SpeechRecognition
+moviepy==1.0.3
+decorator>=4.0.2
+numpy
+imageio
+imageio-ffmpeg>=0.4.0
+proglog
+tqdm
+requests
